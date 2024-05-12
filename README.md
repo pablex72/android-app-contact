@@ -19,4 +19,4 @@ ContactApp es una aplicación de Android que te permite acceder a una API para o
 ## Uso
 Cuenta con 2 pantallas una de inicio y bienvenida y la otra la app en si, esto se logra atraves de navegacion
 
-
+Recursos: cursos Aristidevs - Yayo Arellano
